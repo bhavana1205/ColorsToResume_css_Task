@@ -1,0 +1,51 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.resume{
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1{
+    color: #0b5394;
+    text-align: center;
+}
+
+h2{
+    color: #1c4587;
+    border-bottom: 2px solid #1c4587;
+    padding-bottom: 5px;
+}
+
+p{
+    color: #333;
+    line-height: 1.6;
+}
+
+.contact-info{
+    font-weight: bold;
+    color: #cc0000;
+}
+
+ul{
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li{
+    margin-bottom: 8px;
+    color: #444;
+}
+
+b{
+    color: #0b5394;
+}
